@@ -1,0 +1,6 @@
+C:\IBT CS programing\RPS Game\RPS Game Console\RPS Game Console\obj\Debug\RPS Game Console.csprojAssemblyReference.cache
+C:\IBT CS programing\RPS Game\RPS Game Console\RPS Game Console\bin\Debug\RPS Game Console.exe.config
+C:\IBT CS programing\RPS Game\RPS Game Console\RPS Game Console\bin\Debug\RPS Game Console.exe
+C:\IBT CS programing\RPS Game\RPS Game Console\RPS Game Console\bin\Debug\RPS Game Console.pdb
+C:\IBT CS programing\RPS Game\RPS Game Console\RPS Game Console\obj\Debug\RPS Game Console.exe
+C:\IBT CS programing\RPS Game\RPS Game Console\RPS Game Console\obj\Debug\RPS Game Console.pdb
